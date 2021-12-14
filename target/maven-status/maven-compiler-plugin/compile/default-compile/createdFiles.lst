@@ -1,0 +1,4 @@
+com\example\demo\HelloVerticle.class
+com\example\demo\DatabaseVerticle.class
+com\example\demo\MainVerticle.class
+com\example\demo\OperatorVerticle.class
